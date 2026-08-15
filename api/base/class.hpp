@@ -1,0 +1,9 @@
+
+#ifndef SNS2_EDITOR_CLASS_H
+#define SNS2_EDITOR_CLASS_H
+
+
+
+
+
+#endif //SNS2_EDITOR_CLASS_H
